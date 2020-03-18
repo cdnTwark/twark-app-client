@@ -1,4 +1,6 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_nt8Dc6WskZlSUyuWIbyvwVqP00pYGsQPI8",
     s3: {
       REGION: "us-east-1",
       BUCKET: "twark-app-uploads"
